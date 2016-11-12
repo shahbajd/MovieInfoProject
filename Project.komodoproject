@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="f1e710e2-800c-c341-b13f-add350df515c" kpf_version="5" name="Project.komodoproject">
+<file id="01888a74-4f95-e442-9490-2a54912330bb" idref="f1e710e2-800c-c341-b13f-add350df515c" name="Main.py" url="Main.py">
+</file>
+<file id="34c4d160-d521-174b-be3b-7bf372e26868" idref="f1e710e2-800c-c341-b13f-add350df515c" name="Main Temp.py" url="Main%20Temp.py">
+</file>
+<file id="39cb95bb-e94e-f341-9aaf-2937bfb3b7da" idref="f1e710e2-800c-c341-b13f-add350df515c" name="Mass Director Lookup.py" url="Mass%20Director%20Lookup.py">
+</file>
+<file id="4b47d36c-cc17-e844-b267-4da330b72dff" idref="f1e710e2-800c-c341-b13f-add350df515c" name="Python-1.py" url="Python-1.py">
+</file>
+<file id="4bc57ffd-5344-8749-8831-b7fa6d66d8cd" idref="f1e710e2-800c-c341-b13f-add350df515c" name="Dialogue Box Testing.py" url="Dialogue%20Box%20Testing.py">
+</file>
+<file id="8c1dadf6-1a9c-df41-8bd5-f264e52228ad" idref="f1e710e2-800c-c341-b13f-add350df515c" name="Excel Testing.py" url="Excel%20Testing.py">
+</file>
+<file id="942c08df-0ac3-3b4e-b784-3758ce4e6ad9" idref="f1e710e2-800c-c341-b13f-add350df515c" name="Browser Operation BeautySoup.py" url="Browser%20Operation%20BeautySoup.py">
+</file>
+<preference-set idref="f1e710e2-800c-c341-b13f-add350df515c" id="project" preftype="project">
+</preference-set>
+</project>
